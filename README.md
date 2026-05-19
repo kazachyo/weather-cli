@@ -6,7 +6,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/weather-cli.git
+git clone https://github.com/kazachyo/weather-cli.git
 cd weather-cli
 
 # Установка зависимостей
