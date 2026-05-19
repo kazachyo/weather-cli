@@ -2,6 +2,16 @@
 
 Консольное приложение для получения текущей погоды через OpenWeatherMap API.
 
+## Установка
+
+```bash
+# Клонирование репозитория
+git clone https://github.com/kazachyo/weather-cli.git
+cd weather-cli
+
+# Установка зависимостей
+pip install -r requirements.txt
+
 Инструкция
 
 # Базовый запрос
@@ -15,14 +25,4 @@ python weather_cli.py
 
 # Со своим API ключом
 python weather_cli.py Paris -k YOUR_API_KEY
-
-## Установка
-
-```bash
-# Клонирование репозитория
-git clone https://github.com/kazachyo/weather-cli.git
-cd weather-cli
-
-# Установка зависимостей
-pip install -r requirements.txt
 
