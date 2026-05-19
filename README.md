@@ -12,6 +12,7 @@ cd weather-cli
 # Установка зависимостей
 pip install -r requirements.txt
 
+Инструкция
 
 # Базовый запрос
 python weather_cli.py Москва
